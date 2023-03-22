@@ -70,7 +70,7 @@ public class FormMenuPrincipal extends JFrame {
 		/*btnCadastrarUmaNova.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				FormCarregando formCarregando = new FormCarregando();
-				formCarregando.setVisible(true);
+				formCarregando.setVisible(true);;
 				dispose();
 
 			}
